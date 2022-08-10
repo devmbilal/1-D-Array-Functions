@@ -1,1 +1,1 @@
-# 1-D-Array-Functions-in-C-
+# 1-D-Array-Functions-in-C++
